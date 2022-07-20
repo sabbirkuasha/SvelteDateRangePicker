@@ -2,6 +2,10 @@
 
 This is a basic svelte project with DateRangePicker 
 
+
+[DEMO](https://strong-snickerdoodle-f11c54.netlify.app/)
+
+
 ## Steps to reproduce the project manualy
 
 - Create svelte project with vite 
